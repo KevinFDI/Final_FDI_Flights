@@ -1,0 +1,22 @@
+[
+	{
+		"id": "001",
+		"restriction": "Gluten-free"
+	},
+	{
+		"id": "002",
+		"restriction": "Dairy-free"
+	},
+	{
+		"id": "003",
+		"restriction": "Nut-free"
+	},
+	{
+		"id": "004",
+		"restriction": "Vegetarian"
+	},
+	{
+		"id": "005",
+		"restriction": "Vegan"
+	},
+]
